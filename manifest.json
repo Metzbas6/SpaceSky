@@ -1,0 +1,21 @@
+{
+  "name": "SpaceSky",
+  "description": "A dark cosmic Spicetify theme with a dense starry sky, shooting stars, blue cosmic glow, and glass-style UI.",
+  "preview": "preview.png",
+  "usercss": "user.css",
+  "schemes": "color.ini",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Metzbas6",
+      "url": "https://github.com/Metzbas6"
+    }
+  ],
+  "tags": [
+    "dark",
+    "space",
+    "stars",
+    "cosmic",
+    "blue"
+  ]
+}
